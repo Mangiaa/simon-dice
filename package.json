@@ -1,0 +1,25 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "juego simon dice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangiaa/simon-dice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangiaa/simon-dice/issues"
+  },
+  "homepage": "https://github.com/Mangiaa/simon-dice#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
